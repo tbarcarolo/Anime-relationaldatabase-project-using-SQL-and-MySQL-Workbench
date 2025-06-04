@@ -12,6 +12,9 @@ The result is a clean, normalized, and well-connected database structure that al
 Tools used in this project:
 
 MySQL — Database management system used to create and manage the entire project.
+
 SQL — Language used for defining the schema, inserting data, and running queries.
+
 MySQL Workbench — Used as the main development environment and to generate the ER diagram through reverse engineering.
+
 CSV Dataset (data_anime.csv) — Source of the data used to populate the database.

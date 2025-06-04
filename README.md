@@ -9,12 +9,12 @@ I built several related tables such as anime, studios, ranking, genres, and a ju
 The result is a clean, normalized, and well-connected database structure that allows for meaningful queries and potential analysis, making it suitable for both practice and demonstration purposes.
 
 
-Tools used in this project:
+##Tools used in this project:
 
-MySQL — Database management system used to create and manage the entire project.
+- **MySQL** — Database management system used to create and manage the entire project.
 
-SQL — Language used for defining the schema, inserting data, and running queries.
+- **SQL** — Language used for defining the schema, inserting data, and running queries.
 
-MySQL Workbench — Used as the main development environment and to generate the ER diagram through reverse engineering.
+- **MySQL Workbench** — Used as the main development environment and to generate the ER diagram through reverse engineering.
 
-CSV Dataset (data_anime.csv) — Source of the data used to populate the database.
+- **CSV Dataset (data_anime.csv)** — Source of the data used to populate the database.

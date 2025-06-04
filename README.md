@@ -9,7 +9,7 @@ I built several related tables such as anime, studios, ranking, genres, and a ju
 The result is a clean, normalized, and well-connected database structure that allows for meaningful queries and potential analysis, making it suitable for both practice and demonstration purposes.
 
 
-##Tools used in this project:
+## Tools used in this project:
 
 - **MySQL** — Database management system used to create and manage the entire project.
 
